@@ -17,6 +17,8 @@ In a blind test, judges preferred Humanizer's rewrite over the original AI text 
 
 Humanizer edits for human readers. Getting past AI detectors is not a goal, and detectors still flag most of its output.
 
+**Fork con soporte para español:** cuando el texto está en español, la skill lee [es.md](es.md), con los tics de IA propios del idioma.
+
 ## The five strongest tells
 
 These are the most common signs of AI writing, and Humanizer rewrites any of them on sight:
